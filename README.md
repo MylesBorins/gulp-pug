@@ -1,5 +1,5 @@
-# gulp-pug [![Build Status][status-img]][status] ![Dependencies][deps] ![Downloads][downloads]
-> Gulp plugin for compiling Pug templates
+# gulp-pug-too
+> A fork of gulp-pug to squash security warnings
 
 This Gulp plugin enables you to compile your Pug templates into HTML or JS, with support for template locals, custom Pug filters, AMD wrapping, and others.  Here is a simple example using `gulp-pug`:
 
@@ -45,10 +45,6 @@ Returns a stream that compiles Vinyl files as Pug.
 
 [MIT][license] &copy; Jamen Marzonie
 
-[status]: https://travis-ci.org/gulp-community/gulp-pug
-[status-img]: https://travis-ci.org/gulp-community/gulp-pug.png?branch=master
-[deps]: https://david-dm.org/gulp-community/gulp-pug.svg
-[downloads]: https://img.shields.io/npm/dm/gulp-pug.svg
 [pug]: http://github.com/gulp-community/pug
 [api]: https://pugjs.org/api/reference.html
 [gulp-data]: https://npmjs.com/gulp-data
